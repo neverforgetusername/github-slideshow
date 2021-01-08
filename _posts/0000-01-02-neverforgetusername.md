@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+** Ihminen on erehtyväinen ja lehmä on märehtiväinen**
 Use the left arrow to go back!
